@@ -40,7 +40,7 @@
         "name":"NRCC#2",  
         "row": [
           {
-            "total": 500,
+            "total": 100,
             "delivered": 0,
             "not delivered": 0
           },
@@ -50,23 +50,23 @@
             "not delivered": 0
           },
           {
+            "total": 20,
+            "delivered": 0,
+            "not delivered": 20
+          },
+          {
+            "total": 25,
+            "delivered": 0,
+            "not delivered": 25
+          },
+          {
             "total": 0,
             "delivered": 0,
             "not delivered": 0
           },
           {
-            "total": 5,
-            "delivered": 0,
-            "not delivered": 5
-          },
-          {
-            "total": 5,
-            "delivered": 0,
-            "not delivered": 5
-          },
-          {
-            "total": 440,
-            "delivered": 440,
+            "total": 40,
+            "delivered": 40,
             "not delivered": 0
           }
         ]
