@@ -2,7 +2,8 @@
   "shipmentDelivered": [
     {
       "data": [{
-        "NRCC#1": [
+        "name":"NRCC#1",  
+        "row": [
           {
             "total": 500,
             "delivered": 0,
@@ -36,7 +37,8 @@
         ]
       },
       {
-        "NRCC#2": [
+        "name":"NRCC#2",  
+        "row": [
           {
             "total": 500,
             "delivered": 0,
