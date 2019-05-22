@@ -7,32 +7,32 @@
           {
             "total": 500,
             "delivered": 0,
-            "not delivered": 0
+            "notDelivered": 0
           },
           {
             "total": 0,
             "delivered": 0,
-            "not delivered": 0
+            "notDelivered": 0
           },
           {
             "total": 0,
             "delivered": 0,
-            "not delivered": 0
+            "notDelivered": 0
           },
           {
             "total": 5,
             "delivered": 0,
-            "not delivered": 5
+            "notDelivered": 5
           },
           {
             "total": 5,
             "delivered": 0,
-            "not delivered": 5
+            "notDelivered": 5
           },
           {
             "total": 440,
             "delivered": 440,
-            "not delivered": 0
+            "notDelivered": 0
           }
         ]
       },
@@ -40,34 +40,34 @@
         "name":"NRCC2",  
         "row": [
           {
-            "total": 100,
+            "total": 500,
             "delivered": 0,
-            "not delivered": 0
+            "notDelivered": 0
           },
           {
             "total": 0,
             "delivered": 0,
-            "not delivered": 0
-          },
-          {
-            "total": 20,
-            "delivered": 0,
-            "not delivered": 20
-          },
-          {
-            "total": 25,
-            "delivered": 0,
-            "not delivered": 25
+            "notDelivered": 0
           },
           {
             "total": 0,
             "delivered": 0,
-            "not delivered": 0
+            "notDelivered": 0
           },
           {
-            "total": 40,
-            "delivered": 40,
-            "not delivered": 0
+            "total": 5,
+            "delivered": 0,
+            "notDelivered": 5
+          },
+          {
+            "total": 5,
+            "delivered": 0,
+            "notDelivered": 5
+          },
+          {
+            "total": 440,
+            "delivered": 440,
+            "notDelivered": 0
           }
         ]
       }
