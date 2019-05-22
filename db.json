@@ -1,38 +1,77 @@
 {
-  "shipmentDelivered": [{
-    "row":{"data":[
-        {
-            "total":500,
-            "delivered":0,
-            "not delivered":0
-        },
-        {
-            "total":0,
-            "delivered":0,
-            "not delivered":0
-        },
-        {
-            "total":0,
-            "delivered":0,
-            "not delivered":0
-        },
-        {
-            "total":5,
-            "delivered":0,
-            "not delivered":5
-        },
-        {
-            "total":5,
-            "delivered":0,
-            "not delivered":5
-        },
-        {
-            "total":440,
-            "delivered":440,
-            "not delivered":0
-        }]
+  "shipmentDelivered": [
+    {
+      "data": [{
+        "NRCC#1": [
+          {
+            "total": 500,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 0,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 0,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 5,
+            "delivered": 0,
+            "not delivered": 5
+          },
+          {
+            "total": 5,
+            "delivered": 0,
+            "not delivered": 5
+          },
+          {
+            "total": 440,
+            "delivered": 440,
+            "not delivered": 0
+          }
+        ]
+      },
+      {
+        "NRCC#2": [
+          {
+            "total": 500,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 0,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 0,
+            "delivered": 0,
+            "not delivered": 0
+          },
+          {
+            "total": 5,
+            "delivered": 0,
+            "not delivered": 5
+          },
+          {
+            "total": 5,
+            "delivered": 0,
+            "not delivered": 5
+          },
+          {
+            "total": 440,
+            "delivered": 440,
+            "not delivered": 0
+          }
+        ]
+      }
+    ]
     }
-  }],
+],
   "profile": {
     "name": "typicode"
   }
