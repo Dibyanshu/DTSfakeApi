@@ -1,40 +1,38 @@
 {
-  "shipmentDelivered": [
-    {
-    "NRCC#1":{
-        "Total RLLP's":{
+  "shipmentDelivered": [{
+    "row":{"data":[
+        {
             "total":500,
             "delivered":0,
             "not delivered":0
         },
-        "At NRCC":{
+        {
             "total":0,
             "delivered":0,
             "not delivered":0
         },
-        "In Transit":{
+        {
             "total":0,
             "delivered":0,
             "not delivered":0
         },
-        "At Delivery Station":{
+        {
             "total":5,
             "delivered":0,
             "not delivered":5
         },
-        "Out for Delivery":{
+        {
             "total":5,
             "delivered":0,
             "not delivered":5
         },
-        "Delivered":{
+        {
             "total":440,
             "delivered":440,
             "not delivered":0
-        }
+        }]
     }
-}
-  ],
+  }],
   "profile": {
     "name": "typicode"
   }
