@@ -1,80 +1,81 @@
 {
-  "shipmentDelivered": [
-    {
-      "data": [{
-        "name":"NRCC1",  
-        "row": [
-          {
-            "total": 500,
-            "delivered": 0,
-            "notDelivered": 0
-          },
-          {
-            "total": 0,
-            "delivered": 0,
-            "notDelivered": 0
-          },
-          {
-            "total": 0,
-            "delivered": 0,
-            "notDelivered": 0
-          },
-          {
-            "total": 5,
-            "delivered": 0,
-            "notDelivered": 5
-          },
-          {
-            "total": 5,
-            "delivered": 0,
-            "notDelivered": 5
-          },
-          {
-            "total": 440,
-            "delivered": 440,
-            "notDelivered": 0
-          }
-        ]
-      },
+    "shipmentDelivered": [
       {
-        "name":"NRCC2",  
-        "row": [
-          {
-            "total": 100,
-            "delivered": 0,
-            "notDelivered": 0
-          },
-          {
-            "total": 0,
-            "delivered": 0,
-            "notDelivered": 0
-          },
-          {
-            "total": 20,
-            "delivered": 0,
-            "notDelivered": 20
-          },
-          {
-            "total": 20,
-            "delivered": 0,
-            "notDelivered": 20
-          },
-          {
-            "total": 10,
-            "delivered": 5,
-            "notDelivered": 5
-          },
-          {
-            "total": 40,
-            "delivered": 40,
-            "notDelivered": 0
-          }
-        ]
+        "data": [{
+          "name":"NRCC1",  
+          "row": [
+            {
+              "total": 500,
+              "delivered": null,
+              "notDelivered": null
+            },
+            {
+              "total": null,
+              "delivered": null,
+              "notDelivered": null
+            },
+            {
+              "total": null,
+              "delivered": null,
+              "notDelivered": null
+            },
+            {
+              "total": 5,
+              "delivered": null,
+              "notDelivered": 5
+            },
+            {
+              "total": 5,
+              "delivered": null,
+              "notDelivered": 5
+            },
+            {
+              "total": 440,
+              "delivered": 440,
+              "notDelivered": null
+            }
+          ]
+        },
+        {
+          "name":"NRCC2",  
+          "row": [
+            {
+              "total": 100,
+              "delivered": null,
+              "notDelivered": null
+            },
+            {
+              "total": null,
+              "delivered": null,
+              "notDelivered": null
+            },
+            {
+              "total": 20,
+              "delivered": null,
+              "notDelivered": 20
+            },
+            {
+              "total": 20,
+              "delivered": null,
+              "notDelivered": 20
+            },
+            {
+              "total": 10,
+              "delivered": 5,
+              "notDelivered": 5
+            },
+            {
+              "total": 40,
+              "delivered": 40,
+              "notDelivered": null
+            }
+          ]
+        }
+      ]
       }
-    ]
+  ],
+    "profile": {
+      "name": "typicode"
     }
-],
-  "profile": {
-    "name": "typicode"
   }
-}
+  
