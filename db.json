@@ -74,8 +74,45 @@
       ]
       }
   ],
-    "profile": {
-      "name": "typicode"
+    "getRegion": {
+        "data": [
+            {
+                "id": 4,
+                "name": "NRCC#1"
+            },
+            {
+                "id": 5,
+                "name": "NRCC#2"
+            },
+            {
+                "id": 6,
+                "name": "NRCC#3"
+            },
+            {
+                "id": 7,
+                "name": "NRCC#4"
+            },
+            {
+                "id": 8,
+                "name": "NRCC#5"
+            },
+            {
+                "id": 9,
+                "name": "NRCC#6"
+            },
+            {
+                "id": 10,
+                "name": "NRCC#7"
+            },
+            {
+                "id": 11,
+                "name": "NRCC#8"
+            },
+            {
+                "id": 12,
+                "name": "NRCC#9"
+            },
+        ]
     }
   }
   
