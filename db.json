@@ -78,39 +78,48 @@
       "data": [
         {
             "id": 4,
-            "name": "NRCC#1"
+            "name": "NRCC#1",
+            "group":"region"
         },
         {
             "id": 5,
-            "name": "NRCC#2"
+            "name": "NRCC#2",
+            "group":"region"
         },
         {
             "id": 6,
-            "name": "NRCC#3"
+            "name": "NRCC#3",
+            "group":"region"
         },
         {
             "id": 7,
-            "name": "NRCC#4"
+            "name": "NRCC#4",
+            "group":"region"
         },
         {
             "id": 8,
-            "name": "NRCC#5"
+            "name": "NRCC#5",
+            "group":"region"
         },
         {
             "id": 9,
-            "name": "NRCC#6"
+            "name": "NRCC#6",
+            "group":"region"
         },
         {
             "id": 10,
-            "name": "NRCC#7"
+            "name": "NRCC#7",
+            "group":"region"
         },
         {
             "id": 11,
-            "name": "NRCC#8"
+            "name": "NRCC#8",
+            "group":"region"
         },
         {
             "id": 12,
-            "name": "NRCC#9"
+            "name": "NRCC#9",
+            "group":"region"
         }
       ]
   }
