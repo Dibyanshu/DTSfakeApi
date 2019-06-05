@@ -197,5 +197,19 @@
             "group":"region"
         }
       ]
-  }
+  },
+  "shipmentDelivered3": {"result":
+    [
+      {
+        "name":"NRCC#1",
+        "row":{
+          "total":{"total":100,"ontime":60,"late":40},
+          "at_nrcc":{"total":20,"ontime":12,"late":8},
+          "in_transit":{"total":20,"ontime":12,"late":8},
+          "at_delivery_station":{"total":20,"ontime":12,"late":8},
+          "out_for_delivery":{"total":0,"ontime":"","late":""},
+          "delivered":{"total":20,"ontime":12,"late":8}},
+          "perNrcc":{"ontime_percentage":"60.00","late_percentage":"40.00"}
+        },
+        {"name":"NRCC#2","row":{"total":{"total":0,"ontime":0,"late":0},"at_nrcc":{"total":0,"ontime":0,"late":0},"in_transit":{"total":0,"ontime":0,"late":0},"at_delivery_station":{"total":0,"ontime":0,"late":0},"out_for_delivery":{"total":0,"ontime":0,"late":0},"delivered":{"total":0,"ontime":0,"late":0}},"perNrcc":{"ontime_percentage":0,"late_percentage":0}}],"total_rllps":100,"total_ontime":60,"total_late":40,"ontime_rllp_percentage":"60.00","late_rllp_percentage":"40.00"}
 }
